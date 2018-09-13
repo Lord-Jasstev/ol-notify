@@ -1,0 +1,11 @@
+{
+  "name": "ol-notify",
+  "version": "3.0.0",
+  "description": "Simple Framework for implementing the Observer Pattern in a Nodejs enviroment.",
+  "main": "index.js",
+  "author": "OnlineLeviathan",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
